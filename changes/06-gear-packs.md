@@ -47,7 +47,7 @@ Includes: Body Armor, Assault Rifle, Medium Pistol, Dazzler Minigrenades (5), L2
 
 ## Reskinning
 
-In general, if an item can be reasonably reskinned in appropriate 2047 terms, it is allowed — and the reskin should be noted when the item is taken. Examples: hardware (H) sensory augmentations are external wearables (goggles, helmet rigs, handheld sensors); bioware/cyberware enhancements are Watcher-derived enhancement treatments (expensive, licensed, and conspicuous); smart animals are trained, lightly enhanced working animals from genehacker programs; the Flying Car is an eVTOL air taxi. Items that cannot be reasonably reskinned are marked with an asterisk (\*) in the SRD gear tables.
+In general, if an item can be reasonably reskinned in appropriate 2047 terms, it is allowed — and the reskin should be noted when the item is taken. Examples: hardware (H) sensory augmentations are external wearables (goggles, helmet rigs, handheld sensors); bioware/cyberware enhancements are Watcher-derived enhancement treatments (expensive, licensed, and conspicuous); smart animals are trained, lightly enhanced working animals from genehacker programs; the Flying Car is an eVTOL air taxi; Biomods are the Watcher-derived gene-therapy package standard in enhanced morphs — faster healing, disease resistance, shock resistance, and controllable contraception, but no aging immunity, limb regeneration, or 4-hour sleep. Items that cannot be reasonably reskinned are marked with an asterisk (\*) in the SRD gear tables.
 
 ## Prohibited Gear
 
