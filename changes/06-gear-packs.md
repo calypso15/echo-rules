@@ -1,8 +1,6 @@
 # Gear Packs
 
-To make things simpler, we will not use the Gear Packs from the Eclipse Phase book. Instead, at the start of a mission, you choose one of the Campaign Packs, Profession Packs, or Faction Packs from below. All packs are 10 GP (even if they contain more than 10 GP worth of gear, which many do).
-
-With any remaining GP, you may buy individual gear or, if you wish, additional Gear Packs.
+To make things simpler, we will not use the Gear Packs from the Eclipse Phase book. Instead, at character creation, you choose one of the Campaign Packs, Profession Packs, or Faction Packs from below. All packs are 10 GP (even if they contain more than 10 GP worth of gear, which many do).
 
 ## Campaign Packs
 
