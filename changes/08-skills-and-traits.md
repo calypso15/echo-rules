@@ -36,7 +36,6 @@ Everything not listed below works as written.
 ### Banned (Technology or Setting Doesn't Exist)
 
 - **Digital Speed** (infomorphs don't exist)
-- **Drone Affinity** — *kept*, actually; listed here so nobody asks. Operators love it.
 - **Edited Memories** (no psychosurgery) — *exception:* the Lost may take it to represent their missing time
 - **Memory Artifact / Skill Artifact** (psychosurgery) — *exception:* the Lost, as above; something put those fragments there
 - **Identity Crisis** (resleeving-based)
