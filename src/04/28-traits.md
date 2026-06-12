@@ -286,13 +286,13 @@ You are unwavering and firm. Receive +5 per level to WIL Checks.
 
 **▲ Ego Trait • CP Cost: 2/4/6/8**
 
-You have a measure of money, assets, and/or other wealth, as used in the inner system, hypercorp, Jovian, and Extropian polities. This provides bonus Morph Points and Gear Points equal to the trait’s level when [acquiring morphs](../15/03-acquiring-morphs.md) and [gear](../16/02-acquiring-gear.md). It also gives you a regular amount of disposable income to purchase gear during missions.
+You have a measure of money, assets, and/or other wealth, as used in the inner system, hypercorp, Jovian, and Extropian polities. This provides bonus Morph Points and Gear Points equal to the trait’s level when [acquiring morphs](../15/03-acquiring-morphs.md) and [gear](../16/02-acquiring-gear.md). It also gives you a regular amount of disposable income to borrow gear during missions.
 
-At Level 1, you can spend up to 2&nbsp;GP per week on Minor complexity items given the appropriate time frame.
+At Level 1, you can have up to 2&nbsp;GP worth of Minor complexity items at a time, given the appropriate time frame.
 
-At Level 2, you can spend up to 3&nbsp;GP per week on Minor or Moderate complexity items given the appropriate time frame.
+At Level 2, you can have up to 3&nbsp;GP worth of Minor or Moderate complexity items at a time, given the appropriate time frame.
 
-At Level 3, you can spend up to 5&nbsp;GP per week on items of any complexity, given the appropriate time frame.
+At Level 3, you can have up to 5&nbsp;GP worth of items of any complexity, given the appropriate time frame.
 
 Level 4 is the same as Level 3, except that you also have the capability to make even Rare and Restricted items available (at the gamemaster’s discretion).
 
