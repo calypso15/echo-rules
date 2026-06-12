@@ -2,7 +2,7 @@
 
 Character creation follows the Eclipse Phase 2e steps with the replacements below. Point budgets, CP costs, and the overall process are unchanged.
 
-## Step 1: Background (Replaced)
+## Step 1: Background
 
 The Eclipse Phase backgrounds assume the Fall and the diaspora. Use these instead. Each provides the same skill-point budget as the book's backgrounds (170 active + 90 know).
 
@@ -165,7 +165,7 @@ You served — during Contact, during Echo Protocol, in the India-China border w
 | 4 | Freelancer | 9 | Ultra |
 | 5 | The Lost | 10 | Veteran |
 
-## Step 2: Career (Mostly Kept)
+## Step 2: Career
 
 The book's careers work fine — divers need the same professions the packs are built around. Changes:
 
@@ -188,7 +188,7 @@ You control dive robots from the safety of a console — scouts, heavies, whole 
 
 For the Random Career table, replace Mindhacker's entry with Operator.
 
-## Step 4: Faction (Replaced)
+## Step 4: Faction
 
 As in the book: your faction provides a motivation and Know: \[Faction\] 30. Going factionless is allowed. The factions of 2047:
 
@@ -205,18 +205,19 @@ As in the book: your faction provides a motivation and Know: \[Faction\] 30. Goi
 - **Criminal:** You are connected to the underworld — Crimson Dawn, smuggling rings, the fences and forgers of the black market.
 - **Found:** You work with the Found Initiative, helping the Lost come home — or you are one, and they helped you.
 
-## Steps 5–11
-
-Unchanged, except:
+## Steps 7: Languages
 
 - **Step 7 (Languages):** Use real 2047 languages. Spanish, English, French, Tahitian, Mandarin, Hindi, and Arabic dominate the campaign regions.
+
+## Steps 9: Reputation
+
 - **Step 9 (Reputation):** Use the remapped networks in [Reputation & Money](05-reputation-and-money.md).
 
 ## Step 10: Customization
 
 See [Skills & Traits](08-skills-and-traits.md) for the banned and reflavored trait list, and [Resonance](03-resonance.md) for the Resonance trait (which replaces Psi).
 
-## Step 12: Starting Morph & Gear (Changed)
+## Step 12: Starting Morph & Gear
 
 - **Morph:** Choose from the Allowed Morphs list in [Gear Packs](06-gear-packs.md). Your morph is your body — its stats represent your genetics, upbringing, conditioning, and any enhancement your history justifies. You will never choose another one, so choose carefully. Spend Morph Points per the book; ware is limited by the Prohibited Gear list.
 - **Gear:** You own your career's Profession Pack outright — it is your personal kit, accumulated over your working life. Mission gear on top of that is handled per [Gear Packs](06-gear-packs.md) and [Persistent Gear](07-persistent-gear.md).
