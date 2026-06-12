@@ -16,7 +16,7 @@ ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item {
     counter-increment: srd;
 }
 
-ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item > .chapter-link-wrapper > a::before {
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item > .chapter-link-wrapper > a:not(.chapter-fold-toggle)::before {
     content: counter(srd) ". ";
 }
 
@@ -29,7 +29,7 @@ ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item ol.
     counter-increment: srdsec;
 }
 
-ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item ol.section > li.chapter-item > .chapter-link-wrapper > a::before {
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item ol.section > li.chapter-item > .chapter-link-wrapper > a:not(.chapter-fold-toggle)::before {
     content: counter(srd) "." counters(srdsec, ".") " ";
 }
 
