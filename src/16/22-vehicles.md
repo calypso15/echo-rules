@@ -75,6 +75,8 @@ On Mars, Venus, Titan, many exoplanets, and within large openspace cylinder habi
 
 </table>
 
+_Echo Protocol: the Flying Car reskins as an eVTOL air taxi._
+
 <!--sort-->
 
 **Flying Car:** This methane-powered car is equipped with turbo fans that fold out from the body for vectored-thrust flight on Mars and worlds with similar gravities.
@@ -229,7 +231,7 @@ Hardsuits are solid, enclosed-shell, powered exoskeletons. Like standard vacsuit
 
 <!--sort-block-->
 
-<tr><td>High-Dive Suit<td>Maj/3<td>1<td>0<td>0<td>25/8<td>12<td>60<td>120<td>Walker 4/20, Thrust Vector (Rocket) 8/40<td>M</tr>
+<tr><td>High-Dive Suit<td>Maj/3*<td>1<td>0<td>0<td>25/8<td>12<td>60<td>120<td>Walker 4/20, Thrust Vector (Rocket) 8/40<td>M</tr>
 <tr><td colspan="11"><div class="indent">
 
 - **Notes:** +1d6 melee damage
@@ -250,6 +252,10 @@ Hardsuits are solid, enclosed-shell, powered exoskeletons. Like standard vacsuit
 <!--sort-end-->
 
 </table>
+
+_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
+
+_Echo Protocol: unmarked hardsuits remain available — the Battlesuit as prototype corporate/military powered armor (Level 3 license territory), the Standard Hardsuit as an atmospheric-diving and hazardous-environment suit of the kind used at the underwater sites._
 
 <!--sort-->
 
@@ -284,11 +290,13 @@ Walker 4/20, Wheeled 8/40<td>VL</tr>
 
 <!--sort-block-->
 
-<tr><td>Rocket Buggy<td>Maj/3<td>4<td>2<td>1<td>12/10<td>20<td>100<td>200<td>Wheeled 8/40<td>L</tr>
+<tr><td>Rocket Buggy<td>Maj/3*<td>4<td>2<td>1<td>12/10<td>20<td>100<td>200<td>Wheeled 8/40<td>L</tr>
 
 <!--sort-end-->
 
 </table>
+
+_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
 
 <!--sort-->
 
@@ -323,8 +331,12 @@ These one-person movement aids are primarily used in space or undersea. Use with
 | PERS TRANSPORT | Comp/<wbr>GP | Pass  | Vigor | Flex  | Armor |  WT   |  DUR  |  DR   |           Movement           | Size  |
 | :------------- | :----------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--------------------------: | :---: |
 | Rocket Pack    |    Mod/2     |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Rocket) 8/40  |   S   |
-| Sled           |    Min/1     |   2   |   0   |   0   |  6/4  |   8   |  40   |  80   | Thrust Vector (Gas Jet) 8/40 |   S   |
-| Thruster Pack  |    Min/1     |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Gas Jet) 8/40 |   S   |
+| Sled           |    Min/1*    |   2   |   0   |   0   |  6/4  |   8   |  40   |  80   | Thrust Vector (Gas Jet) 8/40 |   S   |
+| Thruster Pack  |    Min/1*    |   1   |   0   |   0   |  6/4  |   6   |  30   |  60   | Thrust Vector (Gas Jet) 8/40 |   S   |
+
+_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
+
+_Echo Protocol: the Rocket Pack reskins as a jet suit._
 
 <!--sort-->
 
@@ -348,15 +360,17 @@ Spacecraft have few stats in Eclipse Phase, as they are primarily handled as set
 
 | SPACECRAFT      | Comp/<wbr>GP |  Pass  | Vigor | Flex  | Armor |  WT   |  DUR  |  DR   |        Movement         |
 | :-------------- | :----------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :---------------------: |
-| Bulk Carrier    |    Rare/—    |   5+   |   0   |   0   | 40/30 |  150  |  750  | 1,500 |         Fusion          |
-| Corvette        |    Rare/—    | 20–30  |   0   |   0   | 50/40 |  150  |  750  | 1,500 | Fusion/<wbr>Anti-matter |
-| Courier         |    Rare/—    |   13   |   0   |   0   | 30/20 |  100  |  500  | 1,000 |       Anti-matter       |
-| Destroyer       |    Rare/—    |   90   |   0   |   0   | 50/40 |  400  | 2,000 | 4,000 | Fusion/<wbr>Anti-matter |
-| Fighter         |    Rare/—    |  0/1   |   3   |   2   | 30/20 |  50   |  250  |  500  |         Fusion          |
-| Scum Barge      |    Rare/—    | 5k–25k |   0   |   0   | 40/30 |  300  | 1,500 | 3,000 |   Plasma/<wbr>Fusion    |
-| Shuttle (Large) |    Rare/—    | 20–300 |   0   |   0   | 20/15 |  80   |  400  |  800  |    Metallic-Hydrogen    |
-| Shuttle (Small) |    Rare/—    |  5–20  |   0   |   0   | 20/15 |  80   |  400  |  800  |    Metallic-Hydrogen    |
-| Transport       |    Rare/—    |  100+  |   0   |   0   | 40/30 |  150  |  750  | 1,500 |         Fusion          |
+| Bulk Carrier    |    Rare/—*   |   5+   |   0   |   0   | 40/30 |  150  |  750  | 1,500 |         Fusion          |
+| Corvette        |    Rare/—*   | 20–30  |   0   |   0   | 50/40 |  150  |  750  | 1,500 | Fusion/<wbr>Anti-matter |
+| Courier         |    Rare/—*   |   13   |   0   |   0   | 30/20 |  100  |  500  | 1,000 |       Anti-matter       |
+| Destroyer       |    Rare/—*   |   90   |   0   |   0   | 50/40 |  400  | 2,000 | 4,000 | Fusion/<wbr>Anti-matter |
+| Fighter         |    Rare/—*   |  0/1   |   3   |   2   | 30/20 |  50   |  250  |  500  |         Fusion          |
+| Scum Barge      |    Rare/—*   | 5k–25k |   0   |   0   | 40/30 |  300  | 1,500 | 3,000 |   Plasma/<wbr>Fusion    |
+| Shuttle (Large) |    Rare/—*   | 20–300 |   0   |   0   | 20/15 |  80   |  400  |  800  |    Metallic-Hydrogen    |
+| Shuttle (Small) |    Rare/—*   |  5–20  |   0   |   0   | 20/15 |  80   |  400  |  800  |    Metallic-Hydrogen    |
+| Transport       |    Rare/—*   |  100+  |   0   |   0   | 40/30 |  150  |  750  | 1,500 |         Fusion          |
+
+_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
 
 <!--sort-->
 

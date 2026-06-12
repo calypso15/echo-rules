@@ -45,6 +45,10 @@ Includes: Body Armor, Assault Rifle, Medium Pistol, Dazzler Minigrenades (5), L2
 
 **Techie:** Includes (10 GP): Stunner, Automech, Small Fabber, Grip Tape, Electrical Sense, Fokus (5), Tools (Shop), Tools (Kit), Utilitool.
 
+## Reskinning
+
+In general, if an item can be reasonably reskinned in appropriate 2047 terms, it is allowed — and the reskin should be noted when the item is taken. Examples: hardware (H) sensory augmentations are external wearables (goggles, helmet rigs, handheld sensors); bioware/cyberware enhancements are Watcher-derived enhancement treatments (expensive, licensed, and conspicuous); smart animals are trained, lightly enhanced working animals from genehacker programs; the Flying Car is an eVTOL air taxi. Items that cannot be reasonably reskinned are marked with an asterisk (\*) in the SRD gear tables.
+
 ## Prohibited Gear
 
 The following items either do not exist or are not available:

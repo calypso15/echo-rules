@@ -23,6 +23,8 @@ This ware improves your morph’s sensory capabilities.
 | Sonar                 |    BCH    |    Min/1     | Sonar, range 20&nbsp;m air/100&nbsp;m water.                                     |
 | T-Ray Emitter         |    CH     |    Min/1     | Use enhanced vision to see through materials.                                    |
 
+_Echo Protocol: all available, reskinned. Hardware (H) versions are external sensors — goggles, cameras, helmet rigs, handheld units. Bioware/cyberware (B/C) versions are Watcher-derived enhancement treatments: expensive, licensed, and noticed. Oracles runs as an AR app on specs._
+
 <!--sort-->
 
 **360° Vision:** The morph’s eyes/visual sensors are situated for a 360-degree field of vision.

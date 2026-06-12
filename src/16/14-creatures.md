@@ -19,7 +19,7 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 
 <!--sort-block-->
 
-<tr><td>Dino Pet<td>Min/1<td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>4/5<td>3/15/23<td>4/20/40</tr>
+<tr><td>Dino Pet<td>Min/1*<td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>4/5<td>3/15/23<td>4/20/40</tr>
 <tr><td colspan="13"><div class="indent">
 
 - **Movement Rate:** Walker 4/12 or Winged 8/32
@@ -31,7 +31,7 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 
 <!--sort-block-->
 
-<tr><td>Fur Coat<td>Min/1<td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1<td>0<td>—<td>3/15/23<td>—</tr>
+<tr><td>Fur Coat<td>Min/1*<td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1&nbsp;<sup>3</sup><td>1<td>0<td>—<td>3/15/23<td>—</tr>
 
 <!--sort-block-->
 
@@ -47,7 +47,7 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 
 <!--sort-block-->
 
-<tr><td>Space Roach<td>Min/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5<td>0<td>—<td>1/5/8<td>2/10/20</tr>
+<tr><td>Space Roach<td>Min/1*<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>5<td>0<td>—<td>1/5/8<td>2/10/20</tr>
 <tr><td colspan="13"><div class="indent">
 
 - **Movement Rate:** Walker 4/12
@@ -59,7 +59,7 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 
 <!--sort-block-->
 
-<tr><td>Squidling<td>Min/1<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>—<td>1/5/8<td>4/20/40</tr>
+<tr><td>Squidling<td>Min/1*<td>1&nbsp;<sup>3</sup><td>10&nbsp;<sup>30</sup><td>15&nbsp;<sup>45</sup><td>1&nbsp;<sup>3</sup><td>5&nbsp;<sup>15</sup><td>10&nbsp;<sup>30</sup><td>5<td>0<td>—<td>1/5/8<td>4/20/40</tr>
 <tr><td colspan="13"><div class="indent">
 
 - **Movement Rate:** Thrust Vector (Gas Jet) 4/12
@@ -72,6 +72,10 @@ A variety of transgenic, genehacked, and neogenetic creatures have become common
 <!--sort-end-->
 
 </table>
+
+_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
+
+_Echo Protocol: unmarked GMOs are available, reskinned — the Pollinator Swarm is engineered pollinator stock, a real industry since the crater-zone ecological collapses._
 
 <!--sort-->
 
@@ -182,7 +186,7 @@ Smart animals are partially uplifted and bio-engineered. These have rudimentary 
 
 <!--sort-block-->
 
-<tr><td>Swarm Cat<td>Min/1<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>6<td>1<td>4/5<td>6/30/45<td>6/30/60</tr>
+<tr><td>Swarm Cat<td>Min/1*<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>6<td>1<td>4/5<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><div class="indent">
 
 - **Movement Rate:** Walker 4/20
@@ -195,6 +199,10 @@ Smart animals are partially uplifted and bio-engineered. These have rudimentary 
 <!--sort-end-->
 
 </table>
+
+_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
+
+_Echo Protocol: smart animals reskin as trained, lightly enhanced working animals from genehacker programs — the Rust Hound makes a fine artifact-sniffer._
 
 <!--sort-->
 
@@ -229,7 +237,7 @@ A few creatures discovered on exoplanets have been finding their way into privat
 
 <!--sort-block-->
 
-<tr><td>Clown Sprite<td>Rare/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>7<td>1<td>—<td>4/20/30<td>2/10/20</tr>
+<tr><td>Clown Sprite<td>Rare/—*<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>20&nbsp;<sup>60</sup><td>15&nbsp;<sup>45</sup><td>5&nbsp;<sup>15</sup><td>5&nbsp;<sup>15</sup><td>7<td>1<td>—<td>4/20/30<td>2/10/20</tr>
 <tr><td colspan="13"><div class="indent">
 
 - **Movement Rate:** Winged 8/32, Walker 4/12
@@ -241,7 +249,7 @@ A few creatures discovered on exoplanets have been finding their way into privat
 
 <!--sort-block-->
 
-<tr><td>Hexanewt<td>Rare/—<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
+<tr><td>Hexanewt<td>Rare/—*<td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>10&nbsp;<sup>30</sup><td>5&nbsp;<sup>15</sup><td>15&nbsp;<sup>45</sup><td>15&nbsp;<sup>45</sup><td>5<td>1<td>2/3<td>6/30/45<td>6/30/60</tr>
 <tr><td colspan="13"><div class="indent">
 
 - **Movement Rate:** Walker 4/20
@@ -254,6 +262,8 @@ A few creatures discovered on exoplanets have been finding their way into privat
 <!--sort-end-->
 
 </table>
+
+_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
 
 <!--sort-->
 

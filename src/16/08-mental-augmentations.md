@@ -12,7 +12,7 @@ Most headware augmentations enhance the brain and mental functions.
 | Drone Rig              |    CHM    |    Mod/2     | Ignore the −10 modifier when jamming.                                                    |
 | Emergency Farcaster    |    CH     |   Maj/R/3*   | Neutrino farcaster for emergency egocasting if killed/triggered.                         |
 | Ghostrider Module      |    CH     |    Min/1*    | Carries an infomorph.                                                                    |
-| Memory Lock            |    CHM    |    Min/1     | Blocks memory retention/recording when activated.                                        |
+| Memory Lock            |    CHM    |    Min/1*    | Blocks memory retention/recording when activated.                                        |
 | Mind Amp               |    HMN    |    Maj/3*    | Accelerates mind. +2 Insight.                                                            |
 | Multi-Tasking          |    CHM    |    Mod/2*    | Focus on 2 things at once. +1 Insight.                                                   |
 | Multiple Personalities |    BM     |    Maj/3*    | Brain holds multiple egos.                                                               |

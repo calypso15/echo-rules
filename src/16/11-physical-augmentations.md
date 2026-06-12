@@ -37,6 +37,8 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 _\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
 
+_Echo Protocol: the remaining bioware on this page reads as Watcher-derived enhancement biotech. Gills, for example, are a niche but established treatment among underwater site personnel at ECHO-04/11._
+
 <!--sort-->
 
 **Circadian Regulation:** Your morph only requires 2 hours of sleep to maintain health and function at peak mental capacity. You dream constantly while asleep and can both fall asleep and wake up almost instantly. You can also easily shift to a 2-day cycle, awake for 44 hours then sleeping for 4, with no ill effects. You need only 2 hours for a long recharge of your pools ([Recharging Pools](../03/05-pools.md#recharging-pools)).

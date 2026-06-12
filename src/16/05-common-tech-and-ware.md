@@ -15,7 +15,7 @@ Most morphs include the following augmentations.
 | Cortical Stack         |    CHN    |    Min/1*    | Memory diamond storage unit for ego backups.                            |
 | Cyberbrain             |    CH     |    Maj/3*    | Synthetic brain, runs infomorph mind-state.                             |
 | Mesh Inserts           |    CH     |    Min/1*    | Cranial computer, wireless transceiver, muse home, and medical sensors. |
-| Mnemonics              |    CHM    |    Min/1     | Enhanced memory; +20 memory-related COG checks.                         |
+| Mnemonics              |    CHM    |    Min/1*    | Enhanced memory; +20 memory-related COG checks.                         |
 | Puppet Sock            |    CH     |    Mod/2*    | Allows morph to be remote controlled.                                   |
 
 _\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
