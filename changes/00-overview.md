@@ -35,7 +35,7 @@ All Eclipse Phase setting content (history, factions, places, threats) is replac
 | 13 The Mesh | **Changed** | It's the 2047 internet, accessed through devices, and it doesn't work inside the ruins. See [The Mesh](04-the-mesh.md) |
 | 14 Psi | **Repurposed** | Becomes the Resonance system. See [Resonance](03-resonance.md) |
 | 15 Transhuman Tech | **Mostly cut** | Backups, resleeving, forking, psychosurgery, identity systems, space travel/combat: gone. Reputation and Networking: kept with new networks. See [Reputation & Money](05-reputation-and-money.md) |
-| 16 Gear | **Changed** | Gear chapter is usable subject to the Prohibited Gear list; acquisition rules replaced. See [Gear Packs](06-gear-packs.md) and [Persistent Gear](07-persistent-gear.md) |
+| 16 Gear | **Changed** | Gear chapter is usable subject to the Prohibited Gear list; acquisition rules replaced. See [Gear Packs](06-gear-packs.md), [Persistent Gear](07-persistent-gear.md), and [Gear Legality](09-gear-legality.md) |
 | 17 Running the Game | **Mostly as written** | GM advice, rez rewards, scenario structure still apply |
 | 18 Threats & X-Risks | **Replaced** | No exsurgents, TITANs, Factors, or Firewall. Antagonists are human (CMC, Pure Earth, Crimson Dawn, state actors) plus the ruins themselves. NPC/threat *rules* (18/05), security systems, and traps remain useful — reskin freely |
 
@@ -53,3 +53,4 @@ The default campaign: the PCs are a freelance dive team operating out of Nueva E
 6. [Gear Packs](06-gear-packs.md) — mission packs, prohibited gear, allowed morphs
 7. [Persistent Gear](07-persistent-gear.md) — sponsored vs. owned gear, salvage rights, artifacts, upkeep
 8. [Skills & Traits](08-skills-and-traits.md) — skill list changes, banned and reflavored traits
+9. [Gear Legality](09-gear-legality.md) — security zones, license levels, enforcement

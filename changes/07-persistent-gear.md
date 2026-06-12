@@ -17,6 +17,7 @@ Every item you carry is one of two things. Track which.
 
 **Sponsored gear is a loan.** Mission GP ([Gear Packs](06-gear-packs.md)) represents your sponsor outfitting the operation. At mission end:
 
+- Restricted [R] items still require the right license to carry legally — see [Gear Legality](09-gear-legality.md); sponsors providing restricted gear normally sponsor the paperwork too
 - Expendables used (ammo, sprays, drugs, grenades) are part of the contract — no charge
 - Everything else goes back to the quartermaster
 - Gear lost or destroyed through recklessness gets docked from pay or dings your rep with the sponsor (GM call; losses in good faith on a hard dive are an expected cost of business)

@@ -15,6 +15,7 @@ How the Eclipse Phase 2e rules are adapted to this setting. Start with the overv
 7. [Gear Packs](changes/06-gear-packs.md) — mission packs, prohibited gear, allowed morphs
 8. [Persistent Gear](changes/07-persistent-gear.md) — owned vs. sponsored gear, salvage, artifacts
 9. [Skills & Traits](changes/08-skills-and-traits.md) — skill and trait changes
+10. [Gear Legality](changes/09-gear-legality.md) — security zones, licenses, enforcement
 
 ## Setting
 
