@@ -1,0 +1,5 @@
+/* Hide auto-generated chapter numbers in the sidebar (numbering runs
+   continuously across parts, which reads as broken for this book) */
+.chapter li strong[aria-hidden="true"] {
+    display: none;
+}
