@@ -62,10 +62,4 @@ The following items either do not exist or are not available:
 
 ## Allowed Morphs
 
-| Category | Allowed |
-|---|---|
-| Common Biomorphs | Any |
-| Pod Biomorphs | None |
-| Uplift Biomorphs | Neo-Octopus |
-| Synthmorphs | None |
-| Infomorphs | None |
+Only common biomorphs are allowed in the default starting setting.
