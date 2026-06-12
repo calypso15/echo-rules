@@ -111,7 +111,7 @@ You grew up in the shadow of a site — Nueva Esperanza's rings, the Gate Hiro s
 | Know: (Choose One) — *Diver Culture, Outpost Ops, Ring Politics* | 60 |
 | Know: (Choose One) — *Resonance Science, Salvage Markets, Xenology* | 30 |
 
-### Ring Fiver
+### (Ring) Fiver
 
 You are a veteran of the slums — Ring 5, the shantytowns, the unpressurized sprawl where the Syndicate is the only law. You used whatever means necessary to get by. *(The book's Underclass, relocated.)*
 
