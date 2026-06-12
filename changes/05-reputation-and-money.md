@@ -6,13 +6,13 @@ Eclipse Phase's rep economy survives the conversion almost intact — 2047's net
 
 | Rep | Network | Who It Reaches |
 |---|---|---|
-| **@-rep** | The Commons — mutual-aid nets, activist collectives, Ring 5 community networks | ALF, Found Initiative volunteers, refugee networks, squatters, organizers. Use it to find shelter, crowdsource help, move quietly among ordinary people |
-| **c-rep** | CivicNet — corporate and governmental standing | CMC and the corps, licensing authorities, banks, site bureaucracies, police. Use it for licenses, lawyers, meetings with managers, and getting waved through checkpoints |
+| **@-rep** | Anarchist — mutual-aid nets, activist collectives, community networks | ALF, Found Initiative volunteers, refugee networks, squatters, organizers. Use it to find shelter, crowdsource help, move quietly among ordinary people |
+| **c-rep** | Civic — corporate and bureaucratic standing | CMC and the corps, licensing authorities, banks, site bureaucracies, police. Use it for licenses, lawyers, meetings with managers, and getting waved through checkpoints |
 | **f-rep** | Fame — media and celebrity | Journalists, depth-metal and echo-beat scenes, celebrity divers, documentary crews. Use it for publicity, invitations, tips, and selling your story |
-| **g-rep** | Guanxi — the black market | Crimson Dawn, smugglers, fences (Zara), forgers, fixers. Use it to fence undeclared artifacts, buy what's prohibited, and learn the word on the street |
-| **i-rep** | The Institutions — the Accord apparatus | UN observers, Santiago Accord Commission staff, Heritage governance, national-program liaisons, Emergency Contact people. Use it to pull official strings, see reports early, get observer access |
-| **r-rep** | RNA — the research network | UTNE, Heritage researchers, xenolinguists, resonance scientists, China's parallel program. Use it to query experts, access papers, borrow lab time |
-| **x-rep** | DiveNet — the diver community | Guild members and independents, operators, scouts, outfitters, rescue teams. Use it for zone intel, charts, gear loans, crew referrals, and rescue priority |
+| **g-rep** | Gang — the black market | Crimson Dawn, smugglers, fences, forgers, fixers. Use it to fence undeclared artifacts, buy what's prohibited, and learn the word on the street |
+| **i-rep** | Insider — the Accord apparatus and government elite | UN observers, Santiago Accord Commission staff, Heritage governance, national-program liaisons, Emergency Contact people. Use it to pull official strings, see reports early, get observer access |
+| **r-rep** | Research — the research network | UTNE, Heritage researchers, xenolinguists, resonance scientists, China's parallel program. Use it to query experts, access papers, borrow lab time |
+| **x-rep** | Explorer — the diver community | Guild members and independents, operators, scouts, outfitters, rescue teams. Use it for zone intel, charts, gear loans, crew referrals, and rescue priority |
 
 Faction-to-network guidance for Step 9: Guild → x; Corporate → c; Heritage → r or i; Accordist → i; Nationalist → c or i; Crater Coalition → @ or i; Ordo Duodecim → @ or f; Synthesis → r or g; Liberationist → @ or g; Criminal → g; Found → @.
 
