@@ -28,7 +28,6 @@ Every item you carry is one of two things. Track which.
 
 | Situation | GP per PC |
 |---|---|
-| First mission of the campaign | 20 |
 | Standard sponsored contract | 10 (one pack, or à la carte) |
 | Deep-zone or high-priority sponsored op | 15–20 |
 | Rush job, cut-rate client, or probationary crew | 5 |
