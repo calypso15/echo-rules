@@ -264,8 +264,6 @@
   - [Complete List of Morphs](src/19/05-complete-list-of-morphs.md)
   - [Rules Primer](src/19/06-rules-primmer.md)
   - [Character Sheet](src/19/07-character-sheet.md)
-- [Buy the book!](src/buy-the-book.md)
-- [License & Credits](src/license.md)
 
 # Supplements
 
@@ -339,3 +337,8 @@
   - [Flexbot Modules](src/SUPP/03-FC/07-flexbot-modules.md)
   - [Flexbot FAQ](src/SUPP/03-FC/08-flexbot-faq.md)
   - [Assembly Examples](src/SUPP/03-FC/09-assembly-examples.md)
+
+---
+
+[Buy the book!](src/buy-the-book.md)
+[License & Credits](src/license.md)

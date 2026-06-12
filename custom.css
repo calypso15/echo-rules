@@ -1,5 +1,44 @@
-/* Hide auto-generated chapter numbers in the sidebar (numbering runs
-   continuously across parts, which reads as broken for this book) */
+/* mdBook numbers chapters continuously across all parts, which reads as
+   broken here (the SRD would start at chapter 16). Instead: hide the
+   built-in numbers and use CSS counters to number only the SRD part,
+   starting at 1 so chapters match the Eclipse Phase book. */
+
 .chapter li strong[aria-hidden="true"] {
     display: none;
+}
+
+/* Top-level SRD chapters: items after the 3rd part title */
+ol.chapter {
+    counter-reset: srd;
+}
+
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item {
+    counter-increment: srd;
+}
+
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item > .chapter-link-wrapper > a::before {
+    content: counter(srd) ". ";
+}
+
+/* Nested SRD sections: 2.1, 2.1.1, ... */
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item ol.section {
+    counter-reset: srdsec;
+}
+
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item ol.section > li.chapter-item {
+    counter-increment: srdsec;
+}
+
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item ol.section > li.chapter-item > .chapter-link-wrapper > a::before {
+    content: counter(srd) "." counters(srdsec, ".") " ";
+}
+
+/* Supplements (4th part and beyond): no numbers */
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item,
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item ol.section > li.chapter-item {
+    counter-increment: none;
+}
+
+ol.chapter > li.part-title ~ li.part-title ~ li.part-title ~ li.part-title ~ li.chapter-item a::before {
+    content: none;
 }
