@@ -30,8 +30,8 @@ Everything not listed below works as written.
 | Psi | **Resonance** | See [Resonance](03-resonance.md); Level 3 exists but is play-only |
 | Psi Camouflage | **Resonance Camouflage** | You read as a lower tier than you are; also applies −10/level to instrumented Resonance screening. Beloved by people dodging registries |
 | Psi Defense | **Resonance Defense** | As written, vs. Projections and field effects |
-| Psi Vulnerability | **Resonance Sensitivity** | As written; you also suffer +10 to Strain-style environmental effects in strong fields |
-| Dominant Strain | **Deep Anchor** | Reflavored: your connection is possessive. +10/20/30 (by Strain threshold) to resist *external* resonance influence — other Resonants' Projections, site-driven compulsions, the Calling |
+| Psi Vulnerability | **Resonance Sensitivity** | As written; you also suffer +10 to Exposure-style environmental effects in strong fields |
+| Dominant Strain | **Deep Anchor** | Reflavored: your connection is possessive. +10/20/30 (by Exposure threshold) to resist *external* resonance influence — other Resonants' Projections, site-driven compulsions, the Calling |
 
 ### Banned (Technology or Setting Doesn't Exist)
 

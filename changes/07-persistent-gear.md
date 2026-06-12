@@ -73,7 +73,7 @@ Artifact gear doesn't follow human-gear rules:
 | 5 | **Intermittent** — on any critical failure while using it, inert for 24 hours |
 | 6 | **Moody** — responds to the user's emotional state; ±10 by circumstance, GM's call |
 | 7 | **Thermal** — noticeably chills (or warms) its surroundings while active |
-| 8 | **Clinging** — +1 additional Strain whenever activated |
+| 8 | **Clinging** — +1 additional Exposure whenever activated |
 | 9 | **Disruptive** — unshielded electronics within Point-Blank range glitch |
 | 10 | **Awake** — it sometimes activates by itself. It's doing something. |
 
