@@ -1,0 +1,18 @@
+title: Echo Protocol
+description: An Eclipse Phase 2e homebrew setting — Earth, 2047
+theme: jekyll-theme-minimal
+
+# Render .md cross-links as page links (enabled by default on GitHub Pages,
+# made explicit here)
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: true
+
+exclude:
+  - eclipse-phase/
