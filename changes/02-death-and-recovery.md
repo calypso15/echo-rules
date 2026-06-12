@@ -1,10 +1,10 @@
 # Death & Recovery
 
-The single biggest mechanical difference between Eclipse Phase and Echo Protocol: **death is permanent.** This document removes the immortality infrastructure and adjusts the rules so that permanent death is dramatic rather than cheap.
+The single biggest mechanical difference between Eclipse Phase and Echo Protocol: **death is permanent** (at least initially). This document removes the immortality infrastructure as a default assumption and adjusts the rules so that permanent death is dramatic rather than cheap.
 
-## Removed Entirely
+## Not Available
 
-The following rules and the technology behind them do not exist:
+The following rules and the technology behind them do not exist in the default starting setting:
 
 - **Backups and uploading** — no cortical stacks, no ego bridges, no backup insurance
 - **Resleeving** — no morph acquisition after character creation, no body banks, no Morph Points in play
@@ -19,7 +19,7 @@ Ignore any rule text that references these. The traits, gear, and disorders that
 
 Eclipse Phase can afford to kill characters casually; we cannot. Use the book's damage, wounds, bleeding out, and Death Rating rules with these modifications:
 
-1. **At Death Rating, you are *dying*, not dead.** You are unconscious and beyond self-stabilization. You die after SOM ÷ 10 action turns unless someone stabilizes you with a Medicine: Paramedic Test at −30 (healing spray or meds give the usual +30). A character stabilized from dying takes a permanent reminder: a scar, a lasting injury, or a −5 to a related aptitude check at GM discretion until properly treated in surgery.
+1. **At Death Rating, you are *dying*, not dead.** You are unconscious and beyond self-stabilization. You die after SOM ÷ 5 action turns unless someone stabilizes you with a Medicine: Paramedic Test at −30 (healing spray or meds give the usual +30). A character stabilized from dying takes a permanent reminder: a scar, a lasting injury, or a −5 to a related aptitude check at GM discretion until properly treated in surgery.
 2. **Instant death** still happens on unambiguous overkill: damage reaching Death Rating × 1.5, decapitation-grade critical effects, or unprotected exposure to lethal environments. The GM should telegraph these stakes before they're on the table.
 3. **Death's Door is once per arc.** The first time in a story arc you'd die, the GM may instead rule you are dying (rule 1) even past the thresholds above. The second time, the dice mean what they say.
 
