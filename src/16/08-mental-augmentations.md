@@ -2,12 +2,14 @@
 
 Most headware augmentations enhance the brain and mental functions.
 
+`Echo Protocol: Mental Augmentations are not available.`
+
 <!--sort-->
 
 | MENTAL AUGMENTATIONS   | Ware Type | Comp/<wbr>GP | Description                                                                              |
 | :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------------------- |
 | Cybercortex            |     C     |    Mod/2*    | Smart animal brain aid, +10 comprehension COG Checks, +10 Exotic Skill: Animal Handling. |
-| Data Module            |    CH     |    Min/1     | Encrypted data storage.                                                                  |
+| Data Module            |    CH     |    Min/1*    | Encrypted data storage.                                                                  |
 | Dead Switch            |    CH     |    Min/1*    | Wipes and melts your cortical stack if killed.                                           |
 | Drone Rig              |    CHM    |    Mod/2     | Ignore the −10 modifier when jamming.                                                    |
 | Emergency Farcaster    |    CH     |   Maj/R/3*   | Neutrino farcaster for emergency egocasting if killed/triggered.                         |
@@ -19,7 +21,7 @@ Most headware augmentations enhance the brain and mental functions.
 | Remote Backup Link     |    CH     |    Maj/3*    | Quantum farcaster for remote backup every 48 hrs.                                        |
 | Skillware              |    CHM    |    Maj/3*    | Can use 120 points of skillsofts.                                                        |
 
-_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
+_\* Not available in Echo Protocol ([Prohibited Gear](00-gear-changes.md#prohibited-gear))._
 
 <!--sort-->
 
@@ -28,8 +30,6 @@ _\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-pack
 **Data Module:** This is an encrypted data storage device, used for carrying confidential information that shouldn't be mesh-transmitted. You may install multiple modules.
 
 **Dead Switch:** Dead switches are designed to keep [cortical stacks](05-common-tech-and-ware.md#standard-augmentations) from falling into the wrong hands. If your morph is killed or the switch is remotely activated, it wipes and melts your cortical stack completely, so that your ego cannot be recovered. This option is generally only used by covert operatives with recent backups.
-
-**Drone Rig:** This simsense augmentation gives you better control when jamming drones ([Remote Operations](21-robots.md#remote-operations)). You ignore the −10 modifier for jamming.
 
 **Emergency Farcaster:** Similar to a remote backup link (and often installed along with one), emergency farcasters are designed for situations when a remote backup cannot be ensured. This augmentation features a single-use emergency [neutrino broadcaster](16-comms-and-mesh-gear.md#neutrino-communicators) powered by 10 nanograms of antimatter, stored in a small magnetic containment vessel. In the event your morph is killed/destroyed, or you intentionally activate the device, the antimatter is brought into contact with matter and detonated, powering a single brief and carefully coded neutrino pulse of your ego’s most recent backup. In short, transmitting the backup makes your head explode and cooks your morph, destroying what’s left of it. Your transmitted ego will be saved as long as the neutrino receiver is within 100 astronomical units. This practically guarantees your backup within the Solar System, but is less useful on exoplanets where you are out of neutrino range of your backup facility.
 
@@ -65,6 +65,6 @@ Skillsofts are used with [skillware implants](#mental-augmentations).
 | :-------- | :----------: | :-------------------------------------- |
 | Skillsoft |    Mod/2*    | Active skill at 40 or Know skill at 80. |
 
-_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
+_\* Not available in Echo Protocol ([Prohibited Gear](00-gear-changes.md#prohibited-gear))._
 
 **Skillsoft:** These are skills encoded in software form. Used with a skillware system, they provide you with a rating of up to 40 in a single active skill or 80 in a Know skill (your aptitudes do not affect this rating; if you already possess the skill, use the highest value).

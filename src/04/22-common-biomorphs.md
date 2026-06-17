@@ -6,7 +6,9 @@ Biomorphs are fully biological sleeves (often genetically modified and equipped 
 
 ## Biomorphs with Cyberbrains
 
-It is increasingly common to find biomorphs with cyberbrains, especially in the outer system. The advantage is that cyberbrains allow for easier resleeving and forking and have built-in mnemonic memory augmentations. The disadvantage is they are vulnerable to hacking. Adding a cyberbrain, access jacks, mnemonics, and puppet sock to your morph increases the MP cost by 1.
+> Not available in _Echo Protocol_.
+
+It is increasingly common to find biomorphs with cyberbrains, especially in the outer system. The advantage is that cyberbrains allow for easier resleeving and forking and have built-in mnemonic memory augmentations. The disadvantage is they are vulnerable to hacking. Adding a cyberbrain, access jacks, mnemonics, and puppet sock to your morph increases the MP cost by 1. 
 
 </blockquote>
 
@@ -50,11 +52,36 @@ Splicers are genefixed humans. Their genome cleansed of hereditary diseases and 
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Cortical Stack, Mesh Inserts
+- **Ware:** Biomods
 
 </blockquote>
 
 <!--sort-->
+
+<!--sort-block-->
+
+### Bouncer
+
+Bouncers are genetically adapted for microgravity. Their legs are more limber and their feet can grasp as well as their hands. They can tolerate the cold temperatures of beehive tunnels. Bouncers are very common in the outer system and zero-g habitats.
+
+<blockquote class="indent stat-list">
+
+### Bouncer
+
+- **Cost:** 24&nbsp;MP • **Avail:** 60
+
+---
+
+- **WT:** 7 • **DUR:** 35 • **DR:** 53
+- **Insight** 1, **Moxie** 0, **Vigor** 1, **Flex** 2
+
+---
+
+- **Movement Rate:** Walker 4/12
+- **Ware:** Biomods, Cold Tolerance, Prehensile Feet
+- **Morph Traits:** Limberness (Level 1)
+
+</blockquote>
 
 <!--sort-block-->
 
@@ -76,7 +103,7 @@ Exalts are the common, non-specialized “enhanced human” model. They are gene
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Cortical Stack, Mesh Inserts
+- **Ware:** Biomods
 
 </blockquote>
 
@@ -100,7 +127,7 @@ Neotenics are transhumans modified to retain a child-like form. They are smaller
 ---
 
 - **Movement Rate:** Walker 4/12
-- **Ware:** Biomods, Circadian Regulation, Cortical Stack, Mesh Inserts
+- **Ware:** Biomods, Circadian Regulation
 - **Morph Traits:** Exotic Morphology (Level 1)
 - **Notes:** [Small size](../12/21-other-action-factors.md#small-size)
 
@@ -116,7 +143,7 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 ### Ruster
 
-- **Cost:** 3&nbsp;MP • **Avail:** 70
+- **Cost:** 2&nbsp;MP • **Avail:** 70
 
 ---
 
@@ -126,7 +153,7 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Cold Tolerance, Cortical Stack, Enhanced Respiration, Mesh Inserts, Radiation Sense
+- **Ware:** Biomods, Cold Tolerance, Enhanced Respiration
 - **Common Extras:** Many have the [Planned Obsolescence trait](28-traits.md#planned-obsolescence)
 
 </blockquote>
@@ -135,26 +162,25 @@ Adapted for survival with minimum gear in the not-fully-terraformed Martian envi
 
 <!--sort-block-->
 
-### Bouncer
+### Menton
 
-Bouncers are genetically adapted for microgravity. Their legs are more limber and their feet can grasp as well as their hands. They can tolerate the cold temperatures of beehive tunnels and have an oxygen reserve in case they are exposed to vacuum. Bouncers are very common in the outer system and zero-g habitats.
+Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory. They are favored by academics, intellectuals, scientists, and engineers.
 
 <blockquote class="indent stat-list">
 
-### Bouncer
+### Menton
 
-- **Cost:** 4&nbsp;MP • **Avail:** 60
+- **Cost:** 3&nbsp;MP • **Avail:** 60
 
 ---
 
 - **WT:** 7 • **DUR:** 35 • **DR:** 53
-- **Insight** 1, **Moxie** 0, **Vigor** 1, **Flex** 2
+- **Insight** 3, **Moxie** 1, **Vigor** 1, **Flex** 1
 
 ---
 
-- **Movement Rate:** Walker 4/12
-- **Ware:** Biomods, Cold Tolerance, Cortical Stack, Grip Pads, Mesh Inserts, Oxygen Reserve, Prehensile Feet
-- **Morph Traits:** Limberness (Level 1)
+- **Movement Rate:** Walker 4/20
+- **Ware:** Biomods
 
 </blockquote>
 
@@ -178,7 +204,7 @@ Futura morphs were specially crafted for the “Lost Generation” of accelerate
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Cortical Stack, Mesh Inserts
+- **Ware:** Biomods
 
 </blockquote>
 
@@ -202,31 +228,7 @@ Hibernoids are transgenic-modified humans with heavily altered sleep patterns an
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Circadian Regulation, Clean Metabolism, Cold Tolerance, Cortical Stack, Hibernation, Mesh Inserts
-
-</blockquote>
-
-<!--sort-block-->
-
-### Menton
-
-Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory. They are favored by academics, intellectuals, scientists, and engineers.
-
-<blockquote class="indent stat-list">
-
-### Menton
-
-- **Cost:** 4&nbsp;MP • **Avail:** 60
-
----
-
-- **WT:** 7 • **DUR:** 35 • **DR:** 53
-- **Insight** 3, **Moxie** 1, **Vigor** 1, **Flex** 1
-
----
-
-- **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Cortical Stack, Mesh Inserts, Mnemonics
+- **Ware:** Biomods, Circadian Regulation, Clean Metabolism, Cold Tolerance, Hibernation
 
 </blockquote>
 
@@ -250,7 +252,7 @@ Olympians are human upgrades with improved athletic capabilities like endurance,
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Cortical Stack, Mesh Inserts
+- **Ware:** Biomods
 
 </blockquote>
 
@@ -274,7 +276,7 @@ Sylph morphs are ideal for media icons, elite socialites, XP stars, models, and 
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Clean Metabolism, Cortical Stack, Enhanced Pheromones, Mesh Inserts
+- **Ware:** Biomods, Clean Metabolism, Enhanced Pheromones
 - **Common Extras:** Many have the [Striking Looks trait](28-traits.md#striking-looks)
 
 </blockquote>
@@ -303,7 +305,7 @@ Furies are combat morphs. These transgenic humans are upgraded for endurance, st
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Bioweave Armor (+2/+3), Claws, Cortical Stack, Enhanced Vision, Mesh Inserts
+- **Ware:** Biomods, Structural Enhancement
 - **Morph Traits:** Enhanced Behavior (Aggressiveness, Level 2; Cooperation, Level 2)
 - **Common Extras:** Many are equipped with [neurachem](../16/10-combat-augmentations.md), [hardened skeleton](../16/10-combat-augmentations.md), [toxin filters](../16/10-combat-augmentations.md)
 
@@ -316,26 +318,6 @@ Furies are combat morphs. These transgenic humans are upgraded for endurance, st
 Ghosts are partially designed for combat applications, but their primary focus is stealth and infiltration. Their genetic profile encourages speed, agility, and reflexes, and their minds are modified for patience and problem-solving.
 
 <blockquote class="indent stat-list">
-
-### Ghost
-
-- **Cost:** 6&nbsp;MP • **Avail:** 40
-
----
-
-- **WT:** 9 • **DUR:** 45 • **DR:** 68
-- **Insight** 2, **Moxie** 1, **Vigor** 3, **Flex** 2
-
----
-
-- **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Chameleon Skin, Cortical Stack, Grip Pads, Mesh Inserts
-- **Morph Traits:** Enhanced Behavior (Patience, Level 2)
-- **Common Extras:** Many are equipped with [adrenal surge](../16/10-combat-augmentations.md), [skinflex](../16/09-social-augmentations.md)
-
-</blockquote>
-
-<!--sort-end-->
 
 ### Remade
 
@@ -357,7 +339,7 @@ They look close to human, but are different in very noticeable and sometimes eer
 ---
 
 - **Movement Rate:** Walker 4/20
-- **Ware:** Biomods, Circadian Regulation, Clean Metabolism, Cold Tolerance, Cortical Stack, Enhanced Respiration, Enhanced Vision, Mesh Inserts
+- **Ware:** Biomods, Circadian Regulation, Clean Metabolism, Cold Tolerance, Enhanced Respiration, Enhanced Vision
 - **Morph Traits:** Exotic Morphology (Level 1)
 
 </blockquote>

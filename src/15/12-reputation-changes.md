@@ -16,7 +16,7 @@ Eclipse Phase's rep economy survives the conversion almost intact — 2047's net
 
 Faction-to-network guidance for Step 9: Guild → x; Corporate → c; Heritage → r or i; Accordist → i; Nationalist → c or i; Crater Coalition → @ or i; Ordo Duodecim → @ or f; Synthesis → r or g; Liberationist → @ or g; Criminal → g; Found → @.
 
-**Formal status is separate from rep.** Things like *Diving Guild member (T1)* or *CMC asset (T1)* (used as pack prerequisites in [Gear Packs](06-gear-packs.md)) are memberships/credentials, acquired through play or backstory with GM approval — rep opens doors, status holds them open.
+**Formal status is separate from rep.** Things like *Diving Guild member (T1)* or *CMC asset (T1)* (used as pack prerequisites in [Gear Packs](../04/27-gear-packs-changes.md)) are memberships/credentials, acquired through play or backstory with GM approval — rep opens doors, status holds them open.
 
 ## Networking and Favors
 
@@ -24,7 +24,7 @@ Use the book's Networking and favor rules unchanged: same favor levels, burn rul
 
 ## Money
 
-Money very much still exists. The campaign currency is the **milliart (m₳)** — see `summary/world/economic-revolution.md` for the full currency table (1 ₳ = 1,000 m₳ ≈ $100k; BTC and RISK for the big and the dirty ends of the market).
+Money very much still exists. The campaign currency is the **milliart (m₳)** — see [Economic Revolution](../../summary/world/economic-revolution.md) for the full currency table (1 ₳ = 1,000 m₳ ≈ $100k; BTC and RISK for the big and the dirty ends of the market).
 
 Benchmarks: a middle-class salary is ~500 m₳/year; rent ~20 m₳/month; a medical scan 50 m₳; elite specialist contracts run 10,000+ m₳. Black market prices run 50–200% over official.
 
@@ -43,8 +43,8 @@ Yes, that means serious gear costs months of a civilian salary. Divers spend ove
 
 ### The Resources Trait
 
-Kept as written, denominated in m₳. Level benchmarks for 2047: Level 1 — a Ring 4 apartment and steady income; Level 2 — a comfortable professional with savings in ART; Level 3 — property in two cities, a vehicle, real investments; Level 4 — fleet-operator or artifact-investor wealth. The book's weekly GP allowances function as your disposable income and interact with [Persistent Gear](07-persistent-gear.md) (what you buy with Resources is **owned**, not sponsored).
+Kept as written, denominated in m₳. Level benchmarks for 2047: Level 1 — a Ring 4 apartment and steady income; Level 2 — a comfortable professional with savings in ART; Level 3 — property in two cities, a vehicle, real investments; Level 4 — fleet-operator or artifact-investor wealth. The book's weekly GP allowances function as your disposable income and interact with [Persistent Gear](../16/02-acquiring-gear-changes.md) (what you buy with Resources is **owned**, not sponsored).
 
 ### Mission Pay
 
-Sponsored missions should pay, beyond the gear budget: typically 100–500 m₳ per diver for routine contracts, 1,000+ for deep or deniable work, plus the diver's cut of declared salvage ([Persistent Gear](07-persistent-gear.md)). Pay in rep, favors, status advancement, or exclusive gear access is common and often worth more than the cash.
+Sponsored missions should pay, beyond the gear budget: typically 100–500 m₳ per diver for routine contracts, 1,000+ for deep or deniable work, plus the diver's cut of declared salvage ([Persistent Gear](../16/02-acquiring-gear-changes.md)). Pay in rep, favors, status advancement, or exclusive gear access is common and often worth more than the cash.

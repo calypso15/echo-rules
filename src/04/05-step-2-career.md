@@ -136,19 +136,17 @@ You have a background in medicine and experience as a physician, surgeon, parame
 | <!--sort-fixed-->Know: (Choose One)<p class="indent">_Common Fields: Biology, Genetics, Psychology_</p>                   |   60 |
 | <!--sort-fixed-->Know: (Choose One)<p class="indent">_Common Fields: Body Bank Ops, Emergency Services, Surgical Ops_</p> |   30 |
 
-## Mindhacker
+## Operator (New Career)
 
-You meld and shape minds and memories. You might be a therapist, memeticist, or psychosurgeon pushing the bounds of cognition.
+You control dive robots from the safety of a console — scouts, heavies, whole fleets if you're good. Eighty percent of diving is done by people like you.
 
-<!--sort-->
-
-|                                                                                                                            |      |
-| :------------------------------------------------------------------------------------------------------------------------- | ---: |
-| Infosec                                                                                                                    |   30 |
-| Medicine: Pharmacology                                                                                                     |   40 |
-| Medicine: Psychosurgery                                                                                                    |   60 |
-| <!--sort-fixed-->Know: (Choose One)<p class="indent">_Common Fields: Cognitive Science, Memetics, Psychology_</p>          |   60 |
-| <!--sort-fixed-->Know: (Choose One)<p class="indent">_Common Fields: Body Bank Ops, Medical Services, Social Services_</p> |   30 |
+| Skill                                                                 | Points |
+| --------------------------------------------------------------------- | -----: |
+| Hardware: Robotics                                                    | 40     |
+| Interface                                                             | 60     |
+| Perceive                                                              | 30     |
+| Know: (Choose One) — *Fleet Logistics, Remote Ops, Robotics*          | 60     |
+| Know: (Choose One) — *Salvage Markets, Site Layouts, Sensor Analysis* | 30     |
 
 ## Scavenger
 
@@ -226,7 +224,7 @@ If you’d rather determine your career randomly, roll 1d10:
 | :-------------------: | :----------------------: | :----------------------: |
 |           1           |         Academic         |       Investigator       |
 |           2           |     Covert Operative     |          Medic           |
-|           3           |         Enforcer         |        Mindhacker        |
+|           3           |         Enforcer         |         Operator         |
 |           4           |         Explorer         |        Scavenger         |
 |           5           |           Face           |        Scientist         |
 |           6           |        Genehacker        |         Soldier          |

@@ -12,35 +12,18 @@ Faction allegiance does not necessarily mean you are a hardcore true believer. Y
 
 <!--sort-->
 
-**Anarchist:** You believe power is corrupt and favor voluntary, non-hierarchical organizations based on direct democracy.
-
-**Argonaut:** You seek technoprogressive solutions to transhumanity’s injustices and inequalities.
-
-**Barsoomian:** You wish to see Mars liberated from hypercorp control.
-
-**Brinker:** You belong to a cult, commune, or other group that seeks isolation from the rest of transhumanity.
-
-**Criminal:** You are associated with the underworld, either part of a large cartel, smaller gang, or as an independent operator.
-
-**Extropian:** You believe in unrestricted free markets and that taking proactive risks with technology is better than playing it safe.
-
-**Hypercorp:** You support hypercapitalist expansion and competitive- economics-driven social order. You accept that certain liberties must be restricted for security and freedom.
-
-**Jovian:** You are a bioconservative concerned about out-of-control transhuman technologies.
-
-**Lunar/Orbital:** You support the conservative economics, Earth-tied nationalism, and traditionalism of the Lunar- Lagrange Alliance.
-
-**Mercurial:** You oppose the assimilation and oppression of AGIs and uplifts, supporting self-determination for your kind.
-
-**Reclaimer:** You believe transhumanity should be focused on reclaiming, terraforming, and repopulating Earth.
-
-**Scum:** You push the boundaries of the experimental, fully testing what it means to be transhuman.
-
-**Socialite:** You are a part of the glitterati, defining and defined by inner-system media culture.
-
-**Titanian:** You are a technosocialist, believing that science and technology can provide for the well-being of all.
-
-**Venusian:** You adhere to the Morningstar Constellation’s vision for a more socialized, friendlier hypercapitalism.
+**Guild:** You stand with the Divers' Guild — mutual aid, shared maps, and the Code. "Ever Deeper."
+**Corporate:** You support CMC or one of the second-tier extraction corps. The artifact economy made the modern world; you intend to own a piece of it.
+**Heritage:** You back the Heritage Foundation's mission — understanding over profit, preservation over exploitation.
+**Accordist:** You believe in the Santiago Accord framework — UN observers, technology sharing, the rule of law between nations. Often institutional types: regulators, inspectors, diplomats.
+**Nationalist:** Your loyalty is to a state program — Chilean, Polynesian, American, Indian, Chinese, or another power's site agenda or intelligence service.
+**Crater Coalition:** You stand with the strike victims — reparations, cleanup, and justice for the Arctic, Libya, and Madagascar.
+**Pure Earth (Sympathizer):** You believe Watcher technology is a contamination, even if you stop short of the bombings. (A full Pure Earth operative is usually an antagonist; talk to your GM.)
+**Ordo Duodecim:** The Watchers were messengers. Humanity failed the test, and must prove itself worthy of their return.
+**Synthesis:** You align with the Synthesis Collective — humanity's future is integration with Watcher technology, voluntarily and soon.
+**Liberationist:** You run with the Artifact Liberation Front — alien technology belongs to everyone, not to whoever holds the patent.
+**Criminal:** You are connected to the underworld — Crimson Dawn, smuggling rings, the fences and forgers of the black market.
+**Found:** You work with the Found Initiative, helping the Lost come home — or you are one, and they helped you.
 
 <!--sort-end-->
 

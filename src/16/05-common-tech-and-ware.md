@@ -18,7 +18,7 @@ Most morphs include the following augmentations.
 | Mnemonics              |    CHM    |    Min/1*    | Enhanced memory; +20 memory-related COG checks.                         |
 | Puppet Sock            |    CH     |    Mod/2*    | Allows morph to be remote controlled.                                   |
 
-_\* Not available in Echo Protocol ([Prohibited Gear](../../changes/06-gear-packs.md#prohibited-gear))._
+_\* Not available in Echo Protocol ([Prohibited Gear](00-gear-changes.md#prohibited-gear))._
 
 <!--sort-->
 
@@ -57,22 +57,27 @@ These devices are easily available in almost all habitats.
 | :-------------------------------- | :----------: | :--------------------------------------------------------------------------------------- |
 | Breather                          |    Min/1     | Converts CO2 into oxygen or provides 2 hours of air.                                     |
 | Cold Suit                         |    Min/1     | Protects against −100&nbsp;°C.                                                           |
+| Contacts                          |    Mod/2     | Contacts that provide sensory augmentation.                                              |
+| Earbuds                           |    Min/1     | Hearing device that provide sensory augmentation.   +10 Perceive.                        |
 | Ecto                              |    Min/1     | External version of mesh inserts, minus the internal medical sensors.                    |
+| Glasses                           |    Mod/2     | Glasses that provide sensory augmentation.                                               |
+| Goggles                           |    Maj/3     | Glasses that provide sensory augmentation.                                               |
 | Grip Tape                         |    Min/1     | Sticky nanotape used to adhere gear to any surface.                                      |
 | Holographic Projector             |    Min/1     | Projects 3D, HD, ultra-realistic images/video. +20 to Perceive as fake within 20&nbsp;m. |
-| Micrograv Shoes                   |    Min/1     | Shoes with velcro or magnetics to walk in micrograv.                                     |
+| Micrograv Shoes                   |    Min/1*    | Shoes with velcro or magnetics to walk in micrograv.                                     |
 | Nuclear Battery                   |    Min/1     | Power from radio-isotope decay for years.                                                |
-| Portable Sensor                   |    Mod/2     | Portable/wearable sensor system of one type (lidar, radar, x-ray, etc.).                 |
+| Portable Sensor                   |    Min/1     | Portable sensor system of one type (lidar, radar, x-ray, etc.).                          |
 | Smart Clothing                    |    Min/1     | Can change color, texture, and cut. +10 Infiltrate, +30 covered and stationary.          |
 | Solar Charger                     |    Min/1     | Portable unit unfolds into solar panels for (re)charging electronics/batteries.          |
-| Specs                             |    Mod/2     | Glasses/goggles that provide enhanced vision. +10 Perceive.                              |
 | Standard Battery                  |    Min/1     | Rechargeable, good for hundreds of hours.                                                |
 | Tools (Kit)                       |    Min/1     | Portable, applies to specific skill.                                                     |
 | <!--sort-union-->Tools (Shop)     |    Mod/2     | Fits into large vehicle, applies to specific skill.                                      |
 | <!--sort-union-->Tools (Facility) |    Maj/3     | Non-mobile, applies to specific skill.                                                   |
 | Utilitool                         |    Min/1     | All-purpose smart-material tool.                                                         |
-| Viewers                           |    Mod/2     | Long-range version of specs. 50x magnification, directional microphone. +10 Perceive.    |
+| Viewers                           |    Mod/2     | Binoculars. 50x magnification, directional microphone. +10 Perceive.                     |
 | Wireless Energy Transmitter       |    Min/1     | Charges devices within 20&nbsp;m.                                                        |
+
+_\* Not available in Echo Protocol ([Prohibited Gear](00-gear-changes.md#prohibited-gear))._
 
 <!--sort-->
 
@@ -80,7 +85,15 @@ These devices are easily available in almost all habitats.
 
 **Cold Suit:** This layered set of waterproof clothing is designed for indefinitely surviving in the cold environment of Mars and similar exoplanets. It protects against temperatures as low as −100&nbsp;°C. The suit is partially pressurized for low-atmospheric pressure areas.
 
+**Contacts:** Contacts are vision-enhancing eyewear. They come with 1 GP worth of [vision augmentation](06-sensory-augmentations.md).
+
+**Earbuds:** Earbuds enable you to hear both higher and lower frequency sounds — the range of sounds you can hear is twice that of normal human ears. Your hearing is also more sensitive, allowing you to hear sounds as if you are 5 times closer. Apply a +10 to hearing-based Perceive Tests.
+
 **Ecto:** Ectos are mobile devices equivalent to mesh inserts, minus the internal medical sensors, used by bioconservatives or the implant-averse. They are flexible, dirt-resistant, and self-cleaning. They are often worn as bracelets or other adornments, and may be stretched out to increase screen size. They are coupled with wireless-enabled glasses, contact lenses, earpieces, and haptic gloves for experiencing augmented reality. Using an ecto applies a −10 modifier to mesh actions.
+
+**Glasses:** Glasses are vision-enhancing eyewear. They come with 2 GP worth of [vision augmentation](06-sensory-augmentations.md).
+
+**Goggles:** Goggles are vision-enhancing eyewear. They come with 3 GP worth of [vision augmentation](06-sensory-augmentations.md).
 
 **Grip Tape:** Sticky nanotape can be used to adhere gear to any surface, which is then easily released by pulling in the right (perpendicular) direction.
 
@@ -90,13 +103,11 @@ These devices are easily available in almost all habitats.
 
 **Nuclear Battery:** These micro-sized batteries generate power from radio-isotope decay, storing it for use. They can produce power for years or even decades. They are often used to recharge standard batteries.
 
-**Portable Sensor:** This is a small portable (possibly even wearable) sensor system. The type of sensor must be chosen (for example: infrared, lidar, radar, x-ray). Combined sensor systems are also available, at a cumulative cost. See [Senses and Sensors](07-senses-and-sensors.md), and [Radio and Sensor Ranges](16-comms-and-mesh-gear.md#radio-and-sensor-ranges).
+**Portable Sensor:** This is a small handheld sensor system. They come with 2 GP worth of [specialized senses](06-sensory-augmentations.md). See [Senses and Sensors](07-senses-and-sensors.md), and [Radio and Sensor Ranges](16-comms-and-mesh-gear.md#radio-and-sensor-ranges).
 
 **Smart Clothing:** Made from smart materials, you can change the color/patterns of smart clothing immediately and the texture and cut in 1d6 minutes. When used for camouflage purposes, smart clothing applies a +10 modifier to Infiltrate Tests, +30 if you are completely covered (or using chameleon skin) and remain stationary. This camo does not apply against radar, x-ray, gamma-ray, or infrared heat sensors (including enhanced vision). You can also use smart clothing to stand out (+10 to +30 to Perceive you). Smart clothing keeps you comfortable in environments from −40 to 70&nbsp;°C.
 
 **Solar Charger:** This small portable unit unfolds into highly efficient solar panels, useful for collecting sunlight and charging electronics or recharging batteries. It is common in gatecrashing and asteroid mining ops, though power output relies on proximity to the sun/star.
-
-**Specs:** Specs are vision-enhancing glasses or goggles. They provide all of the benefits of [enhanced vision](06-sensory-augmentations.md) and include a [t-ray emitter](06-sensory-augmentations.md). They provide a +10 bonus to Perceive Tests.
 
 **Standard Battery:** Batteries are micro-sized, high-density, ultra-capacity, rechargeable, room-temperature superconductors good for hundreds of hours of operation.
 
@@ -104,7 +115,7 @@ These devices are easily available in almost all habitats.
 
 **Utilitool:** In its basic form, a utilitool is the size and shape of a large fountain pen. Made from smart materials, it can transform into almost any tool in 1d6 minutes, from a wrench, knife, or powered screwdriver to a rotary grinder or pair of pliers.
 
-**Viewers:** Viewers are a long-range version of specs, akin to advanced binoculars. They provide 50x magnification and incorporate a directional microphone that magnifies sound from the direction you are facing by a factor of 50. Viewers are not useful at short ranges.
+**Viewers:** Viewers are akin to advanced binoculars. They provide 50x magnification and incorporate a directional microphone that magnifies sound from the direction you are facing by a factor of 50. Viewers are not useful at short ranges.
 
 **Wireless Energy Transmitter:** When plugged into an energy source, this transmitter will transfer power to devices within 20 meters via near-field resonant inductive coupling. These are common in habitat areas, both public and private.
 

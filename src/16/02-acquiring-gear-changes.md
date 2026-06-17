@@ -15,9 +15,9 @@ Every item you carry is one of two things. Track which.
 - Artifacts you keep (see Salvage, below)
 - Sponsored gear you've bought out
 
-**Sponsored gear is a loan.** Mission GP ([Gear Packs](06-gear-packs.md)) represents your sponsor outfitting the operation. At mission end:
+**Sponsored gear is a loan.** Mission GP ([Gear Packs](../04/27-gear-packs-changes.md)) represents your sponsor outfitting the operation. At mission end:
 
-- Restricted [R] items still require the right license to carry legally — see [Gear Legality](09-gear-legality.md); sponsors providing restricted gear normally sponsor the paperwork too
+- Restricted [R] items still require the right license to carry legally — see [Gear Legality](01-gear-rules-changes.md); sponsors providing restricted gear normally sponsor the paperwork too
 - Expendables used (ammo, sprays, drugs, grenades) are part of the contract — no charge
 - Everything else goes back to the quartermaster
 - Gear lost or destroyed through recklessness gets docked from pay or dings your rep with the sponsor (GM call; losses in good faith on a hard dive are an expected cost of business)
@@ -60,7 +60,7 @@ Or you can **not declare it.** Fencing an artifact through g-rep gets you 40–6
 
 Artifact gear doesn't follow human-gear rules:
 
-- **Activation:** requires Resonance, per the interfacing table in [Resonance](03-resonance.md). A Null can benefit from an active artifact but can't turn it on, direct it, or shut it off.
+- **Activation:** requires Resonance, per the interfacing table in [Resonance](../14/00-psi-changes.md#interfacing-with-watcher-technology-new). A Null can benefit from an active artifact but can't turn it on, direct it, or shut it off.
 - **No repair, no replication, no blueprints.** Damaged is damaged. Nobody can fix it, copy it, or tell you what half of it does.
 - **Every artifact has at least one quirk.** Roll d10 or choose:
 

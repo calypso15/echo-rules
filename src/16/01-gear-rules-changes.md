@@ -57,5 +57,5 @@ How the default campaign locations map to security zones:
 
 Two clarifications for how this interacts with the other docs:
 
-- **Licenses are gear** ([Gear Packs](06-gear-packs.md) include L1–L3 Licenses in several packs) and they are owned or granted by sponsors like any other gear — once acquired, a license persists like any other kit ([Persistent Gear](07-persistent-gear.md)), though authorities can suspend or revoke it in play.
-- **Watcher artifacts are not covered by gear licenses.** Artifact possession is governed by salvage law and the Santiago Accord — see Salvage in [Persistent Gear](07-persistent-gear.md). A Level 3 License will not save you from an undeclared data core.
+- **Licenses are gear** ([Gear Packs](../04/27-gear-packs-changes.md) include L1–L3 Licenses in several packs) and they are owned or granted by sponsors like any other gear — once acquired, a license persists like any other kit ([Persistent Gear](02-acquiring-gear-changes.md)), though authorities can suspend or revoke it in play.
+- **Watcher artifacts are not covered by gear licenses.** Artifact possession is governed by salvage law and the Santiago Accord — see Salvage in [Persistent Gear](02-acquiring-gear-changes.md). A Level 3 License will not save you from an undeclared data core.

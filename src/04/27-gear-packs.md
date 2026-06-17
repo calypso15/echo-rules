@@ -10,9 +10,28 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 **Free Muse:** Every character starts with a [muse ALI](../13/07-ais-and-muses.md#muses) for free.
 
-**Infomorphs:** The gear packs are built with embodied characters in mind. If you have chosen an infomorph, some of it may not work with your concept. In this case, you can either adopt the optional infomorph gear pack or switch out the gear you can’t use for meshware, apps, services, bots, etc. of an equivalent GP.
+**Infomorphs:** The gear packs are built with embodied characters in mind. If you have chosen an infomorph, some of it may not work with your concept. In this case, you can either adopt the optional infomorph gear pack or switch out the gear you can't use for meshware, apps, services, bots, etc. of an equivalent GP.
+
+> In Echo Protocol, each character selects exactly one pack — from the Diving campaign pack, a faction pack (if eligible), or a profession pack. The two-pack system (campaign + profession) is not used. All packs are 10 GP. Infomorphs do not exist; the Infomorph pack is not used. See [Gear Packs](27-gear-packs-changes.md).
 
 ## Campaign Packs
+
+> In Echo Protocol, the Firewall/Criminal and Gatecrashing packs are replaced by the single **Diving** pack below.
+
+### Diving
+
+<!--sort-->
+
+| GEAR                                                                    | Comp/<wbr>GP | Description                                                               |
+| :---------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
+| [Breather](../16/18-mission-gear.md#survival-tools)                    |    Min/1     | Filters out contaminants; 8 hours of air.                                 |
+| Crash Suit                                                              |    Min/1     | Light armor. AV 3/3.                                                      |
+| [Electronic Rope](../16/18-mission-gear.md#survival-tools)             |    Min/1     | Controllable rope.                                                        |
+| [Healing Spray](../16/19-nanotech.md)                                  |    Min/1     | Heals 1d10 damage per hour for 12 hours.                                  |
+| [Portable SolArchive](../16/18-mission-gear.md#science-tools)          |    Min/1     | Enable Research Tests related to one Know skill while isolated from mesh. |
+| Stunner                                                                 |   Mod/R/2    | Ranged shock weapon.                                                      |
+| [TacNet App](../16/13-apps-and-alis.md#tactical-networks)              |    Mod/2     | Share tactical data in real-time.                                         |
+| [Utilitool](../16/05-common-tech-and-ware.md#everyday-technology)      |    Min/1     | All-purpose smart-material tool.                                          |
 
 ### Firewall Agent/Criminal
 
@@ -71,6 +90,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 ### Optional Pack: Infomorph
 
+> In Echo Protocol, infomorphs do not exist. This pack is not used.
+
 <!--sort-->
 
 | GEAR                                                 | Comp/<wbr>GP | Description                                                                      |
@@ -82,7 +103,45 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Guardian Angel](../16/21-robots.md#combat-bots)     |    Mod/2     | Personal defense rotorcraft. Small size.                                         |
 | [Private Server](../16/04-services.md#mesh-services) |    Min/1     | Private server, self-administrated.                                              |
 
+## Faction Packs
+
+> In Echo Protocol, faction packs are available to characters who meet the rep or status requirements. A character who qualifies may take a faction pack instead of the Diving or a profession pack.
+
+### Diver's Guild (I)
+
+_Requires: x-rep 40+ or Diving Guild member (Tier 1) status._
+
+<!--sort-->
+
+| GEAR                                                                     | Comp/<wbr>GP | Description                                                               |
+| :----------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------ |
+| [Comfurt (5 doses)](../16/15-chemicals-drugs-and-toxins.md#health-drugs) |    Min/1     | +5&nbsp;LUC, +1&nbsp;TT, +5&nbsp;IR.                                     |
+| [Disassembly Tools](../16/18-mission-gear.md#salvage-tools)              |    Mod/2     | Heavy and smart tools for taking things apart.                            |
+| [Electronic Rope](../16/18-mission-gear.md#survival-tools)               |    Min/1     | Controllable rope.                                                        |
+| [Healing Spray](../16/19-nanotech.md)                                    |    Min/1     | Heals 1d10 damage per hour for 12 hours.                                  |
+| [Portable SolArchive](../16/18-mission-gear.md#science-tools)            |    Min/1     | Enable Research Tests related to one Know skill while isolated from mesh. |
+| Recovery Bond                                                             |    Min/1     | Dive rescue contract; covers extraction costs up to a moderate favor.     |
+| [Standard Vacsuit](../16/18-mission-gear.md#vacsuits)                    |    Maj/3     | As smart clothes, protects from vacuum, 48 hours air, AV 8/6.             |
+| Stunner                                                                   |   Mod/R/2    | Ranged shock weapon.                                                      |
+| [TacNet App](../16/13-apps-and-alis.md#tactical-networks)                |    Mod/2     | Share tactical data in real-time.                                         |
+
+### CMC (I)
+
+_Requires: c-rep 40+ or CMC asset (Tier 1) status._
+
+<!--sort-->
+
+| GEAR                                                          | Comp/<wbr>GP | Description                                         |
+| :------------------------------------------------------------ | :----------: | :-------------------------------------------------- |
+| [Assault Rifle](../12/09-kinetic-weapons.md#firearms)         |   Mod/R/2    | DV 2d10 + 2, SA/BF/FA, Ammo 30 + 1, Range 150.      |
+| [Body Armor](../12/11-armor.md#armor-gear)                    |    Mod/2     | AV 6/10.                                            |
+| Dazzler Minigrenades (5)                                      |    Min/1     | Blinds and disorients targets in burst radius.      |
+| L2 License                                                    |    Min/1     | Level 2 equipment license. See [Gear Legality](../16/01-gear-rules-changes.md). |
+| [Medium Pistol Firearm](../12/09-kinetic-weapons.md#firearms) |   Min/R/1    | DV 2d10, SA/BF/FA, Ammo 15 + 1, Range 30.           |
+
 ## Profession Packs
+
+> In Echo Protocol, the **Mindhacker** profession and its pack do not exist — psychosurgery is not available. The **Operator** profession is available; see [Careers](05-step-2-career-changes.md). All other packs are used with the modifications noted below each.
 
 <!--sort-->
 
@@ -100,6 +159,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Portable SolArchive](../16/18-mission-gear.md#science-tools)                 |    Min/1     | Enable Research Tests related to one Know skill while isolated from mesh.                |
 | [Servitor Bot](../16/21-robots.md#personal-bots)                              |    Min/1     | Common helper/cook/janitor bots.                                                         |
 | [Simulspace](../16/04-services.md#mesh-services)                              |    Min/1     | Access to a VR space.                                                                    |
+
+> In Echo Protocol, Multi-Tasking is replaced with Shock Glove and an Archive service subscription. (Muse is already free for all characters.)
 
 ### Covert Operative
 
@@ -126,6 +187,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 </blockquote>
 
+> In Echo Protocol, Skinflex is replaced with Shroud. The pack also includes an L3 License.
+
 ### Enforcer
 
 <!--sort-->
@@ -139,6 +202,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Muscle Augmentation](../16/10-combat-augmentations.md)                |    Maj/3     | Muscles enhanced with myofibers. +1d6&nbsp;DV melee, +10&nbsp;SOM Checks. |
 | [Shock Glove](../12/02-melee-combat.md#melee-weapons)                  |    Min/1     | DV 1d6, Shock, Touch-Only.                                                |
 | [Shredder](../12/06-spray-weapons.md)                                  |   Mod/R/2    | Flechette gun, DV 2d10 + 6, SA/BF/FA, Ammo 100, Range 25, Two-Handed.     |
+
+> In Echo Protocol, Muscle Augmentation is replaced with Novacardium. The pack also includes an L2 License.
 
 ### Explorer
 
@@ -154,6 +219,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Saucer](../16/21-robots.md#reconsurveillance-bots)                 |    Min/1     | Spinning disc recon drone. Small size.                                                 |
 | [Scout Missile](../16/18-mission-gear.md#exploration-tools)         |    Mod/2     | Maps 5&nbsp;km radius or 10&nbsp;km in one direction in 20 minutes, Perceive 60.       |
 
+> In Echo Protocol, Scout Missile is replaced with Shock Baton and Spindle.
+
 ### Face/Dealer
 
 <!--sort-->
@@ -167,6 +234,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Neuromodulation](../16/09-social-augmentations.md)                    |    Mod/2     | Control over neurotransmitters and emotions. +1 Moxie.                                          |
 | [Smart Hawk](../16/14-creatures.md#smart-animals)                      |    Min/1     | Used for surveillance.                                                                          |
 | [Stiff (5 doses)](../16/15-chemicals-drugs-and-toxins.md#social-drugs) |    Min/1     | +10&nbsp;SAV/WIL Checks vs. Persuade/Provoke, Enhanced Behavior: Stubborn (Level 2).            |
+
+> In Echo Protocol, Medium Fabber and Neuromodulation are replaced with Shock Glove, Smart Clothing, Nofux (5), and Tongzhi (5).
 
 ### Genehacker
 
@@ -183,6 +252,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Tools (Kit)](../16/05-common-tech-and-ware.md#everyday-technology)       |        Min/1         | Portable, applies to specific skill.                            |
 | [Twitch (5 doses)](../16/15-chemicals-drugs-and-toxins.md#toxins)         |       Min/R/1        | −20 actions, SOM Check vs. incapacitation.                      |
 
+> In Echo Protocol, Dino Pet, Medichines, and Pusher Swarm are replaced with Stunner, Smart Rat, Med Scanner, Drug Auto-Injector, and Healing Spray (1). The pack also includes an L1 License.
+
 ### Hacker
 
 <!--sort-->
@@ -195,6 +266,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Sniffer App](../16/13-apps-and-alis.md#apps)                   |    Mod/2     | Collect/view traffic between two systems. |
 | [Spoofer App](../16/13-apps-and-alis.md#apps)                   |   Mod/R/2    | Fake transmissions and mesh IDs.          |
 | [Tracker App](../16/13-apps-and-alis.md#apps)                   |    Mod/2     | Trace connections.                        |
+
+> In Echo Protocol, the pack also includes an L2 License.
 
 ### Investigator
 
@@ -212,6 +285,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Speck](../16/21-robots.md#reconsurveillance-bots)                       |    Min/1     | Insectoid spy bots. Very small size.                                               |
 | [Spy Nanoswarm](../16/20-nanoswarms-and-microswarms.md#swarms)           |    Min/1     | Surveillance, Perceive 60.                                                         |
 
+> In Echo Protocol, Scout Nanoswarm is replaced with Stun Baton and Data Broker Service.
+
 ### Medic
 
 <!--sort-->
@@ -224,7 +299,11 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Med Scanner](../16/19-nanotech.md)                                |    Min/1     | Scans health, diagnosis with Medicine at 60, detect nanobots as nanodetector. |
 | [Meds (5 doses)](../16/15-chemicals-drugs-and-toxins.md#nanodrugs) |    Mod/2     | Heals 1d10 damage per hour or 1 wound per day.                                |
 
+> In Echo Protocol, Healing Vat is replaced with Shock Glove, Crash Suit, and Retriever.
+
 ### Mindhacker
+
+> In Echo Protocol, the Mindhacker career does not exist — psychosurgery is not available. This pack is not used.
 
 <!--sort-->
 
@@ -236,6 +315,10 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Multi-Tasking](../16/08-mental-augmentations.md)                        |    Mod/2     | Focus on 2 things at once. +1 Insight.     |
 | [Private Server](../16/04-services.md#mesh-services)                     |    Mod/2     | Private server, managed by others.         |
 | [Psychosurgery App](../16/13-apps-and-alis.md#apps)                      |    Mod/2     | Edit minds.                                |
+
+### Operator
+
+> In Echo Protocol, Operator is one of the most common professions in the diving economy. Work with your GM to assemble a 10 GP pack appropriate to your specialty — draw from the Hacker, Techie, or Explorer packs as a base. See [Careers](05-step-2-career-changes.md).
 
 ### Scavenger
 
@@ -251,6 +334,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Orbital Hash (5 doses)](../16/15-chemicals-drugs-and-toxins.md#recreational-drugs) |    Min/1     | Ignore 1 trauma, −10 Know Tests/memory-related COG Checks.                                      |
 | [Robomule](../16/21-robots.md#utility-bots)                                         |    Mod/2     | Gear-hauling bot.                                                                               |
 
+> In Echo Protocol, Guardian Swarm is replaced with Scrapper's Gel and Utilitool.
+
 ### Scientist
 
 <!--sort-->
@@ -263,6 +348,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Pocket Lab](../16/18-mission-gear.md#science-tools)               |    Mod/2     | Analyze gases, liquids, materials, Know: Chemistry 60.                                 |
 | [Servitor](../16/21-robots.md#personal-bots)                       |    Min/1     | Common helper/cook/janitor bots.                                                       |
 | [Specimen Container](../16/18-mission-gear.md#science-tools)       |    Min/1     | Holds samples in stasis conditions.                                                    |
+
+> In Echo Protocol, Mind Amp is replaced with Stunner, Drive (5), Portable SolArchive, and Fokus (5).
 
 ### Soldier
 
@@ -288,6 +375,8 @@ All starting gear includes the physical gear item and the digital blueprint for 
 
 </blockquote>
 
+> In Echo Protocol, Neurachem is replaced with Body Armor and Phlo (5). The Assault Rifle Railgun is replaced with a standard Assault Rifle. The pack also includes an L2 License.
+
 ### Techie
 
 <!--sort-->
@@ -301,5 +390,7 @@ All starting gear includes the physical gear item and the digital blueprint for 
 | [Medium Fabber](../16/19-nanotech.md#nanofabricators)                     |    Mod/2     | Fab small items.                                         |
 | [Tools (Kit)](../16/05-common-tech-and-ware.md#everyday-technology)       |    Min/1     | Portable, applies to specific skill.                     |
 | [Utilitool](../16/05-common-tech-and-ware.md#everyday-technology)         |    Min/1     | All-purpose smart-material tool.                         |
+
+> In Echo Protocol, Fixer Swarm and Medium Fabber are replaced with Stunner, Small Fabber, Grip Tape, and Tools (Shop).
 
 <!--sort-end-->

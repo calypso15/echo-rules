@@ -126,6 +126,8 @@ Your character has a reputation score in different social networks. This rep wil
 - **r-rep:** Research Network Affiliates, used by Argonauts, scientists, technologists, and researchers of all stripes.
 - **x-rep:** ExploreNet, the social network for gatecrashers and exoplanet colonists.
 
+> *Echo Protocol:* The rep networks are remapped to 2047 factions and institutions. See [Reputation & Money](../15/12-reputation-changes.md).
+
 ## Gear
 
 Your character will have access to different types of useful equipment: weapons, armor, robots, drugs, smart animals, tools, and more. To simplify things, your starting gear is grouped into gear packs based on your starting career. [Gear Packs](27-gear-packs.md). You will have several options for acquiring gear during gameplay. [Acquiring Gear](../16/02-acquiring-gear.md).

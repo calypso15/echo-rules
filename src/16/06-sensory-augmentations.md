@@ -2,28 +2,33 @@
 
 This ware improves your morph’s sensory capabilities.
 
+`Echo Protocol: all available as Hardware (H). Must be added to a contacts, glasses, goggles, or a portable sensor: [../05-common-tech-and-ware.md].`
+
 <!--sort-->
 
-| SENSORY AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                                      |
+| VISION AUGMENTATIONS  | Ware Type | Comp/<wbr>GP | Description                                                                      |
 | :-------------------- | :-------: | :----------: | :------------------------------------------------------------------------------- |
 | 360° Vision           |    BCH    |    Min/1     | See in all directions at once.                                                   |
 | Anti-Glare            |    CH     |    Min/1     | No glare penalties.                                                              |
+| Drone Rig             |    CHM    |    Mod/2     | Ignore the −10 modifier when jamming.                                                    |
+| Enhanced Vision       |    BCH    |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive. |
+| Lidar                 |     H     |    Min/1     | Use reflected laser light to image and judge range and speed.                    |
+| Oracles               |    CHM    |    Mod/2     | +10 Perceive, negate distraction modifiers.                                      |
+| Polarization Vision   |    BCH    |    Min/1     | See polarized light, ignore camo modifiers.                                      |
+
+<!--sort-->
+
+| SPECIALIZED SENSES    | Ware Type | Comp/<wbr>GP | Description                                                                      |
+| :-------------------- | :-------: | :----------: | :------------------------------------------------------------------------------- |
 | Chem Sniffer          |    CH     |    Mod/2     | Detect gases, explosives, firearms, toxins. Know: Chemistry 60.                  |
 | Direction Sense       |    BCH    |    Min/1     | Innate sense of direction and distance. +10 navigation-based Survival Tests.     |
 | Electrical Sense      |    CH     |    Min/1     | Sense electrical fields within 5&nbsp;m.                                         |
-| Enhanced Hearing      |    BCH    |    Min/1     | Hear higher and lower frequencies. +10 hearing-based Perceive.                   |
-| Enhanced Smell        |    BCH    |    Min/1     | +10 smell-based Perceive, +10 Kinesics with biomorphs point-blank.               |
-| Enhanced Vision       |    BCH    |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive. |
 | Lidar                 |     H     |    Min/1     | Use reflected laser light to image and judge range and speed.                    |
 | Nanoscopic Vision     |     H     |    Mod/2     | View nanoscale objects and nanobots.                                             |
-| Oracles               |    CHM    |    Mod/2     | +10 Perceive, negate distraction modifiers.                                      |
-| Polarization Vision   |    BCH    |    Min/1     | See polarized light, ignore camo modifiers.                                      |
 | Radar                 |     H     |    Min/1     | Motion detector, can also judge size and composition.                            |
 | Radiation Sense       |    CH     |    Min/1     | Detect radiation sources.                                                        |
 | Sonar                 |    BCH    |    Min/1     | Sonar, range 20&nbsp;m air/100&nbsp;m water.                                     |
 | T-Ray Emitter         |    CH     |    Min/1     | Use enhanced vision to see through materials.                                    |
-
-_Echo Protocol: all available, reskinned. Hardware (H) versions are external sensors — goggles, cameras, helmet rigs, handheld units. Bioware/cyberware (B/C) versions are Watcher-derived enhancement treatments: expensive, licensed, and noticed. Oracles runs as an AR app on specs._
 
 <!--sort-->
 
@@ -34,6 +39,8 @@ _Echo Protocol: all available, reskinned. Hardware (H) versions are external sen
 **Chem Sniffer:** This sensor detects molecules in the air and analyzes their chemical composition, using Know: Chemistry 60. It can determine the presence of explosives, firearms, and gases — including toxins and other fumes.
 
 **Direction Sense:** You acquire an innate sense of direction and distance using advanced inertial navigation. You can identify north, spinward, etc., keep track of that direction, and know approximately how far you’ve come. You receive a +10 modifier to navigation-based Survival Tests and other skills for figuring out complex directions, reading maps, remembering routes, and retracing paths you’ve taken. Since it is trivial to use the mesh for positioning, this augmentation is primarily used by gatecrashers.
+
+**Drone Rig:** This sense augmentation gives you better control when jamming drones ([Remote Operations](21-robots.md#remote-operations)). You ignore the −10 modifier for jamming.
 
 **Electrical Sense:** You can sense electric fields. Within 5 meters, you can tell if a device is on or off and can detect the precise location of electrical wiring and power supplies behind a wall or inside a device.
 

@@ -1,6 +1,6 @@
 # Resonance
 
-There is no exsurgent virus and no Watts-MacLeod strain. The entire psi chapter is repurposed to model **Resonance**: the documented neurological compatibility between certain humans and Watcher technology (`summary/technology/resonance.md`). The mechanics are kept nearly 1:1 so the book remains usable at the table — this document is mostly a translation layer plus one new subsystem (interfacing with Watcher devices).
+There is no exsurgent virus and no Watts-MacLeod strain. The entire psi chapter is repurposed to model **Resonance**: the documented neurological compatibility between certain humans and Watcher technology (see [Resonance Phenomenon](../../summary/technology/resonance.md)). The mechanics are kept nearly 1:1 so the book remains usable at the table — this document is mostly a translation layer plus one new subsystem (interfacing with Watcher devices).
 
 ## Translation Table
 
@@ -21,7 +21,7 @@ Wherever the book says the left column, read the right column:
 
 ## What Resonance Is (In Rules Terms)
 
-Resonance is not magic and not a virus. Watcher systems establish a non-contact neural link with compatible humans. Attunements are your nervous system's adaptations to carrying that link; Projections are you deliberately pushing intent out through it. Exposure is how hard the link is currently gripping you — and the unsettling, well-documented fact is that the link sometimes pushes back ([Exposure Effects](#exposure-and-the-calling)).
+Resonance is not magic and not a virus. Watcher systems establish a non-contact neural link with compatible humans. Attunements are your nervous system's adaptations to carrying that link; Projections are you deliberately pushing intent out through it. Exposure is how hard the link is currently gripping you — and the unsettling, well-documented fact is that the link sometimes pushes back ([Exposure and the Calling](#exposure-and-the-calling)).
 
 ## The Resonance Trait
 

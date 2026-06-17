@@ -6,16 +6,16 @@ A homebrew campaign setting for **Eclipse Phase 2e**. Earth, 2047 — eleven yea
 
 How the Eclipse Phase 2e rules are adapted to this setting. Start with the overview.
 
-1. [Overview](changes/00-overview.md) — the five golden rules and a chapter-by-chapter map
-2. [Characters](changes/01-characters.md) — backgrounds, careers, factions
-3. [Death & Recovery](changes/02-death-and-recovery.md) — death is permanent
-4. [Resonance](changes/03-resonance.md) — the psi rules, repurposed
-5. [The Mesh](changes/04-the-mesh.md) — the 2047 net
-6. [Reputation & Money](changes/05-reputation-and-money.md) — rep networks and the milliart
-7. [Gear Packs](changes/06-gear-packs.md) — mission packs, prohibited gear, allowed morphs
-8. [Persistent Gear](changes/07-persistent-gear.md) — owned vs. sponsored gear, salvage, artifacts
-9. [Skills & Traits](changes/08-skills-and-traits.md) — skill and trait changes
-10. [Gear Legality](changes/09-gear-legality.md) — security zones, licenses, enforcement
+[Overview](src/02/07-echo-protocol-overview.md) — the five golden rules and a chapter-by-chapter map
+
+Changes are co-located with the SRD files they modify:
+
+- **Characters:** [Backgrounds](src/04/04-step-1-background-changes.md), [Careers](src/04/05-step-2-career-changes.md), [Factions](src/04/07-step-4-faction-changes.md), [Skills](src/04/18-skills-changes.md), [Traits](src/04/28-traits-changes.md), [Gear Packs](src/04/27-gear-packs-changes.md)
+- **Action & Combat:** [Death & Recovery](src/12/16-physical-health-changes.md), [Mental Health](src/12/18-mental-health-changes.md)
+- **The Mesh:** [The Mesh](src/13/00-the-mesh-changes.md)
+- **Psi:** [Resonance](src/14/00-psi-changes.md) — the psi rules, repurposed
+- **Transhuman Tech:** [Reputation & Money](src/15/12-reputation-changes.md) — rep networks and the milliart
+- **Gear:** [Gear](src/16/00-gear-changes.md) — prohibited gear and reskinning, [Persistent Gear](src/16/02-acquiring-gear-changes.md), [Gear Legality](src/16/01-gear-rules-changes.md)
 
 ## Setting
 
